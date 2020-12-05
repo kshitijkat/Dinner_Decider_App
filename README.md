@@ -1,5 +1,5 @@
 # Dinner Decider App
-![swooshlauncher](https://user-images.githubusercontent.com/54508659/101245766-2ea08c00-3735-11eb-95d6-a9f74a26bf38.png)
+![Applauncher](https://user-images.githubusercontent.com/54508659/101245766-2ea08c00-3735-11eb-95d6-a9f74a26bf38.png)
 
 
 ## About
@@ -22,4 +22,5 @@ So,Happy Eating.
 * `app/src/main/res` - resources directory
 
 ## Screenshots
-![Swoosh Mockups](https://user-images.githubusercontent.com/54508659/97808593-db4aa200-1c8d-11eb-90b2-8de0cf68b77e.png)
+![App Mockups](https://user-images.githubusercontent.com/54508659/101245986-71169880-3736-11eb-869f-01672740004b.png)
+
