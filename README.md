@@ -1,6 +1,5 @@
-# Dinner Decider App
-![swooshlauncher](!([dd_logo](https://user-images.githubusercontent.com/54508659/101245766-2ea08c00-3735-11eb-95d6-a9f74a26bf38.png)
-)
+# Smoosh-Android App
+![swooshlauncher](https://user-images.githubusercontent.com/54508659/97808439-dafdd700-1c8c-11eb-8b5a-7afd73bfc937.png)
 
 ## About
 Smoosh app lets you find the Basketball arenas and players near you. Segregate the Games according to your skill level.
