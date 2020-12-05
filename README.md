@@ -3,9 +3,10 @@
 
 
 ## About
-Smoosh app lets you find the Basketball arenas and players near you. Segregate the Games according to your skill level.
- There are mainly 2 types of options. First, you can select the gender to play with. It can either be mens ,womens or co-ed. The Second choice is your skill level where you can select whether you are a pro baller or a newbie beginner.
-  So,Happy Playing 
+Helps to Decide what food can be ordered from the exis􀆟ng food
+Database.User can add/update/delete the food domain database
+which is made in MySQL.If user doesnt like a particular food he can delete it from the database or can update your favourite food also.
+So,Happy Eating.
 
 
 ## Structure
